@@ -1,0 +1,29 @@
+{
+  "name": "GruntIcon-Test",
+  "version": "0.0.1",
+  "description": "Learning the _very_ basics of initiating a grunt.js project in order to start using grunticon in my projects",
+  "main": "gruntfile.js",
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-contrib-jshint": "~0.1.1",
+    "grunt-contrib-concat": "~0.2.0",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-watch": "~0.3.1",
+    "grunt-contrib-nodeunit": "~0.1.2"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MarnuLombard/GruntIcon-Test.git"
+  },
+  "keywords": [
+    "GruntIcon",
+    "for",
+    "absolute",
+    "beginners"
+  ],
+  "author": "MarnuLombard",
+  "license": "MIT"
+}
